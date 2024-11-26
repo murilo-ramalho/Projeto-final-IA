@@ -86,3 +86,8 @@ Antes de rodar o chatbot, certifique-se de que você possui o Python 3.9 instala
     ```bash
     python -m pip install --upgrade pip
     pip install tensorflow numpy nltk
+
+4. **rodar o treinamento e o chatbot**
+    ```bash
+    python train.py
+    python bot.py
