@@ -78,7 +78,7 @@ Antes de rodar o chatbot, certifique-se de que você possui o Python 3.9 instala
 1. **Clone o repositório do projeto:**
 
    ```bash
-   git clone https://link-para-o-repositorio.git
+   git clone https://github.com/murilo-ramalho/Projeto-final-IA.git
 
 2. **Instalar o [Python 3.9](https://www.python.org/downloads/release/python-390/)**
 
